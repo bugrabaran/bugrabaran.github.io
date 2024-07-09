@@ -5,7 +5,6 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about improving zero-shot classification with generative modeling'
 date: 2022-01-29
 venue: 'ICLR 2022'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://openreview.net/pdf?id=ljxWpdBl4V'
 citation: 'Cetin, S., Baran, O.,B., Cinbiş, R., G., "Closed-form sample probing for learning generative models in zero-shot learning", ICLR 2022'
 ---

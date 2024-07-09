@@ -9,17 +9,10 @@ location: "Ankara, Turkey"
 ---
 
 Topics by content:
-
-    - Mathematical concepts; alphabets and languages
-
-    - Regular languages and finite automata
-
-    - Context-free languages and pushdown automata
-
-    - Recursively enumerable sets and Turing machines
-
-    - The language hierarchy
-
-    - Correspondence between grammars and automata
-
-    - Determinism vs. nondeterminism
+- Mathematical concepts; alphabets and languages
+- Regular languages and finite automata
+- Context-free languages and pushdown automata
+- Recursively enumerable sets and Turing machines
+- The language hierarchy
+- Correspondence between grammars and automata
+- Determinism vs. nondeterminism

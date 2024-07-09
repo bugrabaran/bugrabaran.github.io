@@ -9,7 +9,6 @@ location: "Ankara, Turkey"
 ---
 
 Topics by content:
-
     - Intro and C++ Programming
     - Algorithm Analysis
     - Sorting

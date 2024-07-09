@@ -21,7 +21,7 @@ repository               : "bugrabaran/bugrabaran.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bugra.jpeg"
   name             : "Orhun Buğra Baran"
   pronouns         : "he/his"# example: "she/her"  
   bio              : "Amateur Swimmer"

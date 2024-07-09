@@ -1,5 +1,5 @@
 ---
-title: "	Semantics-driven attentive few-shot learning over clean and noisy samples"
+title: "Semantics-driven attentive few-shot learning over clean and noisy samples"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about making image classification with limited data'

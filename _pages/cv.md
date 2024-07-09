@@ -9,56 +9,59 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Orhun Buğra Baran
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Location: Ankara/Turkey
+E-mail: orhunbugra95@gmail.com
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research Interests:
+- Machine Learning and Computer Vision
+- Especially interested in learning with limited data (Few-shot learning), generative models, meta-learning
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Education:
+- PhD. (2021 - Present)
+	- Middle East Technical University
+	- Computer Engineering
+	- Advisor: Assoc. Prof. Dr. Ramazan Gökberk Cinbiş
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- MS. (2018-2021)
+	- Middle East Technical University
+	- Computer Engineering
+	- Advisors: Assoc. Prof. Dr. Ramazan Gökberk Cinbiş, Assoc. Prof. Dr. Nazlı İkizler-Cinbiş
+	- Thesis Title: Attention Mechanisms for Semantic Few-shot Learning
+	- GPA: 4.00/4.00
+
+- BS (2014-2018)
+	- Middle East Technical University
+	- Computer Engineering
+	- GPA: 3.23/4.00
+	- High Honor Student in the last 4 semesters
+
+Research & Work Experience:
+- Research & Teaching Assistant in Middle East Technical University, Ankara/Turkey
+	- Computer Engineering - 2020 - Present
+
+- Researcher in TUBITAK Project “Generative Models for Few-shot Learning”
+	- July 2020 - June 2023
+	- Middle East Technical University, IMAGELAB, Computer Vision Group, Ankara/Turkey
+
+- Intern - Summer 2017
+	- Middle East Technical University, TEKNOKENT, ATOM
+
+- Intern - Summer 2016
+
+Publications:
+- Google Scholar ID: 4HOZwVgAAAAJ
+- B. Demirel, O. B. Baran, R. G. Cinbis, “Meta-tuning Loss Functions and Data Augmentation for Few-shot Object Detection”, CVPR, June 2023
+- M. S. Amac, A. Sencan, O. B. Baran, N. Ikizler-Cinbis, R. G. Cinbis, “MaskSplit: Self-supervised Meta-learning for Few-shot Semantic Segmentation”, WACV, January 2022
+- S. Cetin, O. B. Baran, R. G. Cinbis, “Closed-form Sample Probing for Learning Generative Models in Zero-shot Learning”, ICLR, April 2022
+- O. B. Baran, R. G. Cinbis, “Semantics-driven attentive few-shot learning over clean and noisy samples”, Neurocomputing, 2022
+- O. B. Baran, S. Sunel, P. Karagoz, I. H. Toroslu, "ATM Withdrawal Amount Forecasting Through Neural Architectures," Big Data, 2019
+
+Teaching Experience:
+- Teaching Assistant for various courses related to Data Structures, Programming, and Computer Vision
+
+Skills:
+- Programming Languages: C, C++, Python
+- Tools: Pytorch, OpenCV, LaTeX
+- Languages: Fluent in English and Turkish (native)

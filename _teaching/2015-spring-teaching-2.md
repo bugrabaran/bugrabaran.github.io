@@ -9,16 +9,16 @@ location: "Ankara, Turkey"
 ---
 
 Topics by content:
-    - Intro and C++ Programming
-    - Algorithm Analysis
-    - Sorting
-    - Linked Lists
-    - Stacks
-    - Queues
-    - Trees
-    - Backtracking (Stacks and Trees)
-    - AVL Trees
-    - Heaps
-    - Hash Tables
-    - Graphs
-    - Range Queries and Square Root Complexity
+- Intro and C++ Programming
+- Algorithm Analysis
+- Sorting
+- Linked Lists
+- Stacks
+- Queues
+- Trees
+- Backtracking (Stacks and Trees)
+- AVL Trees
+- Heaps
+- Hash Tables
+- Graphs
+- Range Queries and Square Root Complexity

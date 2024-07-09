@@ -3,7 +3,7 @@ title: "	Semantics-driven attentive few-shot learning over clean and noisy sampl
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about making image classification with limited data'
-date: 2022
+date: 2022-01-09
 venue: 'Neurocomputing 513, 59-69'
 paperurl: 'https://arxiv.org/abs/2201.03043'
 citation: 'Buğra Baran, O. and Gökberk Cinbiş, R., “Semantics-driven Attentive Few-shot Learning over Clean and Noisy Samples”, <i>arXiv e-prints</i>, 2022. doi:10.48550/arXiv.2201.03043.'
